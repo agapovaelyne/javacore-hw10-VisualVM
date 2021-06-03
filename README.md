@@ -1,1 +1,12 @@
-# javacore-hw10-VisualVM
+# Задача 2 "Исследование JVM через VisualVM"
+
+## *Цель:*
+Изучение использования памяти через VisualVM при загрузке новых классов и создании новых объектов
+
+## *Решение:*
+### *1) Описание событий в памяти Metaspace:*
+![javacore-hw10-VisualVM](Metaspace.png)
+
+### *2) Описание событий в памяти Heap:*
+
+![javacore-hw10-VisualVM](Heap.png)
